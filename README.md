@@ -11,7 +11,51 @@ Example: DSA Projects, MicroProcessors, Arduino Projects , etc.
 ## Applied Electricity
 -
 
+## Applied Thermodynamics
+-
 
+## Accounting I, II (CSM 157, CSM 158)
+-
+
+
+## <a name="B"> </a>B
+## Basic Mechanics (ME 161)
+-
+
+## Basic Electronics (COE 172)
+-
+
+## <a name="C"> </a>C
+## Communication Skills
+-
+
+## Computer Organization
+-
+
+
+## Circuit Theory
+-
+
+## Classical Control Systems
+-
+
+## Computer Networks
+-
+
+## Computer Architecture
+-
+
+## Computer Graphics
+-
+
+
+## <a name="D"> </a>D
+## Data Structures and Algorithms
+## Digital Systems Design
+
+
+## <a name="L"> </a>L
+## Linear Electronics
 
 ## <a name="M"> </a>N
 ## MicroProcessors
@@ -27,7 +71,7 @@ Info on Significant Numbers : https://ccnmtl.columbia.edu/projects/mmt/frontiers
 
 
 
-Linear Electronics 
+ 
 
 [Latex Tutorial in 30 Mins](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 [Operational Amplifiers Sample Questions](https://edurev.in/course/quiz/attempt/-1_Test-DC-Imperfections-in-Operational-Amplifiers/1807e9d7-9b47-4da2-ac41-2b61eeaa2c7b)
